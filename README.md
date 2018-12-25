@@ -3,7 +3,7 @@ An educational software that aims to help students visualize and learn abstract 
 
 # Screenshots
 ![Alt text](/../master/InteractiveStatistics/screenshots/1.JPG)
-![Alt text](/../master/InteractiveStatistics/screenshots/2.JPG
+![Alt text](/../master/InteractiveStatistics/screenshots/2.JPG)
 ![Alt text](/../master/InteractiveStatistics/screenshots/3.JPG)
 ![Alt text](/../master/InteractiveStatistics/screenshots/4.JPG)
 ![Alt text](/../master/InteractiveStatistics/screenshots/5.JPG)

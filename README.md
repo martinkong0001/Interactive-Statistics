@@ -1,4 +1,4 @@
-# Interactive-Statistics
+# Interactive Statistics
 Interactive Statistics is an educational software built for high school students who are planning to take the AP Statistics exam. It is a powerful learning tool that allows its users to visualize abstract concepts in the AP Statistics curriculum. Through exciting simulations combined with cool animations, students will be able to observe, discover, and explore a wide variety of statistical analysis methods.
 
 # Concepts Covered in Interactive Statistics

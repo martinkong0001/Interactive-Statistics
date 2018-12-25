@@ -1,5 +1,5 @@
 # Interactive-Statistics
-An educational software that aims to help students visualize and learn abstract concepts in the AP Statistics curriculum
+An educational software that helps students visualize and learn abstract concepts in the AP Statistics curriculum
 
 # Screenshots
 ![Alt text](/../master/InteractiveStatistics/screenshots/1.JPG)

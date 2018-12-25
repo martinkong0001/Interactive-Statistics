@@ -26,3 +26,4 @@ Interactive Statistics is an educational software built for high school students
 #7: Sampling Distribution
 ![Alt text](/../master/InteractiveStatistics/screenshots/10.JPG)
 ![Alt text](/../master/InteractiveStatistics/screenshots/11.JPG)
+
